@@ -1,0 +1,223 @@
+body {
+    font-family:"Montserrat";
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6  {
+    font-family: 'Montserrat-Bold';
+}
+
+p {
+    color:#8f8f8f;
+}
+
+/*headings*/
+
+.big-heading {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3.5rem;
+    line-height:1.5;
+}
+
+
+.section-heading {
+
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 5% 4%;
+}
+
+/*sections*/
+
+.colored-section {
+    background-color:#ff4c68;
+    color: white;
+
+}
+
+.white-section{
+    background-color: #fff;
+}
+
+/*navigation bar*/
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'ubuntu' ;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #fff;
+    }
+
+
+.nav-item {
+padding: 0 10px;}
+  
+
+.nav-link {
+    font-size:1.2rem ;
+    font-family:'Montserrat-Light';
+    color: #fff;
+}
+
+
+.download-button {
+   
+    margin: 5% 3% 5% 0;
+ }
+
+ /*title section*/
+
+ #title .container-fluid {
+    padding: 1% 2%;
+    text-align: left;
+}
+
+.title-img {
+    right: 30%;
+    width:60%;
+    max-height:99%;
+    transform:rotate(25deg);
+    }
+
+    @media (max-width:1028px) {
+
+        .title-img{
+            position: static;
+            transform:rotate(0);
+
+        }
+
+        #title{
+            text-align: center;
+        }
+        
+    }
+    
+ /*features section*/   
+
+#features {
+    line-height: 1.5;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.feature-box {
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color:#ff4c68;
+}
+
+/*testimonial section*/
+
+#testimonials {
+
+    background-color:#ef8172;
+}
+
+.testimonial-image{
+   
+    border-radius:100%;
+    margin: 20px;
+    width: 10%;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin:20px 20px 50px;
+}
+
+/* pricing section */
+
+#pricing {
+    padding: 100px;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.pricing-coloumn{
+    padding: 3% 2%;
+}
+
+/* CTA section */
+
+/* footer section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cta{
+    font-family: 'Montserrat-Black';
+   
+}
+  
+
+.social-icon{
+    margin:2%;
+}
+

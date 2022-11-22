@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    background-color: yellow;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: powderblue;
+}
+
+.bacon {
+    background-color: red;
+}
+
+#carrot {
+    background-color: brown;
+    border-radius: 100%;
+}   
+

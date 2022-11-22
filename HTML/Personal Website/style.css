@@ -1,0 +1,24 @@
+body {
+    background-color: #b3dd90;
+    font-size: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+hr {
+    color:black ;
+    width: 10%;
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 10px;
+}
+h3{
+    color :#68BFBF;
+}
+h1 {
+    color: #68BFBF;
+}
+table {
+    border-style: dotted;
+    border: 20px black;
+    padding: 6px;
+    
+}

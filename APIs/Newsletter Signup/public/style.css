@@ -1,0 +1,33 @@
+#body {
+   text-align: center;
+   align-items: center;
+   background:url("https://i.pinimg.com/originals/a4/bc/cf/a4bccf72d851a58ff1819cd9d0bab6c9.jpg");
+}
+
+.img{
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+    margin-top: 2%;
+}
+
+.btn{
+    width: 20%;
+}
+
+.sign-up {
+padding: 1%;
+line-height: 2;
+font-weight: bold;
+}
+
+#main-heading{
+    font-family: 'Rampart One', cursive;
+    padding-bottom: 1%;
+    margin-top: 3%;
+    font-weight: bold;
+}
+
+footer{
+    margin: 2%;
+}
